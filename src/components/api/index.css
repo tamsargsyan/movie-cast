@@ -1,0 +1,8 @@
+.all-movies {
+    text-align: center;
+}
+.movie {
+    color: #E50914;
+    padding: 10px;
+    cursor: pointer;
+}

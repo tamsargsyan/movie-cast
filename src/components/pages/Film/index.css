@@ -1,0 +1,12 @@
+.movie-wrapper {
+    width: 500px;
+    height: 600px;
+    margin-top: 30px;
+}
+.movie-wrapper img {
+    width: 100%;
+}
+.movie-wrapper .info {
+    color: #E50914;
+    text-align: center;
+}
